@@ -3,9 +3,6 @@ import { render } from "react-dom";
 import "./style.css";
 
 
-/**
- * IntersectionObserver api虚拟列表滚动和懒加载的例子
- */
 const MAX_SCROLL_COUNT = 6;
 
 function App() {
